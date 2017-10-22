@@ -1,0 +1,95 @@
+<doctype! html>
+<html>
+<head>
+<title>FLIGHT PACIFIC</title>
+<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+</head>
+
+<body>
+<div id="container">
+
+<div id="header">
+<h1 style="font-size:700%;"><strong>FLIGHT PACIFIC</strong></h1>
+</div>
+
+
+<div id="nav">
+<ul>
+<li> <a href="home.html"> Home </a> </li>
+<br>
+<li> <a href="about us.html">About Us</</a> </li>
+<br>
+<li> <a href="holiday packages.html">Flights</a> </li>
+<br>
+<li> <a href="links.html">Links</a> </li>
+<br>
+<li> <a href="enquire.html">Enquire</a> </li>
+</ul>
+</div>
+
+<div id="content">
+<div id="main">
+
+<h2 style="text-align:center;">Home</h2>
+<p>The Pacific is the biggest ocean on earth and covers more than 30% of the Earth surface. 
+The Pacific means 'peaceful' which come from the Latin word 'pace' for peace. 
+The Challenger Deep in the Marina Trench, which is located to the West of the Philippines and north of New Guinea, 
+is the deepest point in the Pacific Ocean with 35,827ft. 
+It is the lowest part of the earth crust and was formed by the collision of two tectonic plates.
+The Great Barrier Reef in Australia is the largest reef in the world stretching over more than 2,300km and including more than 1,000 islands.
+It was proclaimed in 1981 a World Heritage Site and is now a protected area. Corals, tiny marine animals, also form many atolls in the Pacific Oceans.
+Most of the supply of fish in the world is caught in the Pacific.
+</p>
+
+<div id="video">
+<video width="100%" height="400" controls autoplay>
+  <source src="video1.mp4" type="video/mp4">
+</video>
+</div>
+
+<div id="image">
+<img src="images9.jpg" style="width:400px;height:350px;">
+<img src="images3.jpg" style="width:400px;height:350px;">
+</div>
+
+<h2 style="text-align:center;">Info About The PACIFIC</h2>
+<ol style="font-size:100%;">
+<li>The Pacific is the biggest ocean on earth and covers more than 30% of the Earth surface. 
+The Pacific means 'peaceful' which come from the Latin word 'pace' for peace.</li>
+<br> 
+<li>The Challenger Deep in the Marina Trench, which is located to the West of the Philippines and north of New Guinea, 
+is the deepest point in the Pacific Ocean with 35,827ft.
+It is the lowest part of the earth crust and was formed by the collision of two tectonic plates.</li> 
+<br>
+<li>The Great Barrier Reef in Australia is the largest reef in the world stretching over more than 2,300km and including more than 1,000 islands.
+It was proclaimed in 1981 a World Heritage Site and is now a protected area. Corals, tiny marine animals, also form many atolls in the Pacific Oceans.
+</li> 
+<br>
+<li> Most of the supply of fish in the world is caught in the Pacific.
+Most of the islands of the world are found in the Pacific Ocean.</li>
+<br>
+<li>
+There are actually more than 25,000 islands in the Pacific 
+and most of them are found south of the Equator in the Southern Pacific.
+</li>
+</ol> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="#top" style="color:black;">
+<h4 style="text-align:center;">
+Return to the Top
+</h4>
+</a>
+
+</div>
+</div>
+
+<div id="footer">
+&copy FLIGHT PACIFIC 
+</div>
+</body>
+</html>
